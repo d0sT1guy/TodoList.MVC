@@ -29,7 +29,7 @@ namespace Todo.Controllers
 
         [HttpPost]
 
-        public IActionResult PopulateForm(int id) //taking only ONE todo for updating form
+        public IActionResult GettingbyId(int id) //taking only ONE todo for updating form
         {
             var todo = GetById(id); //takes
             return Json(todo);  //returns json form with data

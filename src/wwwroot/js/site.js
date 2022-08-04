@@ -12,10 +12,10 @@
     })
 }
 
-function populateForm(i)
+function GettingbyId(i)
 {
     $.ajax({
-        url: 'Home/PopulateForm',
+        url: 'Home/GettingbyId',
         type: 'POST', //there was GET
         data: {
             id: i
