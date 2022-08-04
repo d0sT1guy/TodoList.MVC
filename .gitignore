@@ -17,7 +17,7 @@
 
 # project files
 [C,c]ontrollers/
-[M,m]odels
+[M,m]odels/
 
 # Build results
 [Dd]ebug/
