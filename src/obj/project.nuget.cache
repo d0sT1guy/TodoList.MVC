@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QH4lAJdHQEe0TVN8Q5JnfjUN4G2iFYkOdF8IPur3YfWBrsuACHY9KYDM423MyIU2FZn0vZQm7j5rCJ1q8Y9AUA==",
+  "dgSpecHash": "wfZinVhuOd0MrhS4/c1V+1ELOifzjKaJgjHRF41hEYggoqxPhDg+H0223vpFCJa9K/msUgsMyLtNRM76WSSDqw==",
   "success": true,
-  "projectFilePath": "/home/chort/work/third/Todo/Todo.csproj",
+  "projectFilePath": "/home/chort/work/third/src/TodoListMVC.csproj",
   "expectedPackageFiles": [
     "/home/chort/.nuget/packages/azure.core/1.6.0/azure.core.1.6.0.nupkg.sha512",
     "/home/chort/.nuget/packages/azure.identity/1.3.0/azure.identity.1.3.0.nupkg.sha512",
@@ -193,9 +193,9 @@
     "/home/chort/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/home/chort/.nuget/packages/system.xml.xpath/4.3.0/system.xml.xpath.4.3.0.nupkg.sha512",
     "/home/chort/.nuget/packages/system.xml.xpath.xdocument/4.3.0/system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "/home/chort/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
     "/home/chort/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
-    "/home/chort/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512",
-    "/home/chort/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512"
+    "/home/chort/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
   ],
   "logs": []
 }

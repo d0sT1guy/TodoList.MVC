@@ -8867,11 +8867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chort/work/third/Todo/Todo.csproj",
-      "projectName": "Todo",
-      "projectPath": "/home/chort/work/third/Todo/Todo.csproj",
+      "projectUniqueName": "/home/chort/work/third/src/TodoListMVC.csproj",
+      "projectName": "TodoListMVC",
+      "projectPath": "/home/chort/work/third/src/TodoListMVC.csproj",
       "packagesPath": "/home/chort/.nuget/packages/",
-      "outputPath": "/home/chort/work/third/Todo/obj/",
+      "outputPath": "/home/chort/work/third/src/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/chort/.nuget/NuGet/NuGet.Config"

@@ -2,7 +2,7 @@
 {
     $.ajax({
         url: 'Home/Delete',
-        type: 'POST',
+        type: 'DELETE',
         data: {
             id: i
         },
@@ -12,10 +12,10 @@
     })
 }
 
-function GettingbyId(i)
+function gettingByIdForm(i)
 {
     $.ajax({
-        url: 'Home/GettingbyId',
+        url: 'Home/GettingByIdForm',
         type: 'POST', //there was GET
         data: {
             id: i
